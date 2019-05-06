@@ -22,7 +22,7 @@ public class FormatowanieS {
         FileWriter wr = new FileWriter(new File("jedenGB.txt"));
         for (int i = 0; i < 250000000; i++) {
             try {
-                wr.write("" + i + '\n');
+                wr.write("" + (i+1) + '\n');
             } finally {
                 wr.close();
             }
