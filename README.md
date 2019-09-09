@@ -3,4 +3,4 @@
 * I push here my file, which I make it, when I do exercises.
 
 ## Technologies
-* All of this projects are programming in JAVA
+* All of this projects (exercises) are programming in JAVA
